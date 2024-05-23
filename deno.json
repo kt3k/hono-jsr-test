@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "start": "deno serve main.ts"
+  },
+  "imports": {
+    "@hono/do-not-use-this": "jsr:@hono/do-not-use-this@^0.0.7"
+  }
+}
